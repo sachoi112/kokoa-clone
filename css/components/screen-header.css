@@ -14,3 +14,30 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+
+.screen-header__notification {
+  width: 5px;
+  height: 5px;
+  background-color: tomato;
+  display: block;
+  border-radius: 50%;
+}
+
+.fa-gear {
+  position: relative;
+}
+
+.screen-notification {
+  position: absolute;
+  top: 50px;
+  left: 430px;
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 450;
+}
