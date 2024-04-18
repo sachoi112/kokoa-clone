@@ -23,14 +23,14 @@
   border-radius: 50%;
 }
 
-.fa-gear {
+.screen-header__icons {
   position: relative;
 }
 
 .screen-notification {
   position: absolute;
-  top: 50px;
-  left: 430px;
+  bottom: 20px;
+  left: 95px;
   background-color: tomato;
   width: 5px;
   height: 5px;
